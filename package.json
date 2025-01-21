@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "arichain",
+  "version": "1.0.0",
+  "description": "auto register for arichain",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "zlkcyber",
+  "license": "MIT",
+  "dependencies": {
+    "@cemalgnlts/mailjs": "^3.0.1",
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "https-proxy-agent": "^7.0.6",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
