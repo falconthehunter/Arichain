@@ -1,5 +1,8 @@
 # Arichain Manual Referral Tool
 
+## Join me for updates 
+Telegram: https://t.me/falconscripts1
+
 ## Summary
 The **Arichain Manual Referral Tool** automates account creation on the AriChain testnet but requires user input for certain steps. When prompted, simply provide the invite code, email address, and OTP manually. 
 
